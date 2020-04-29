@@ -1,0 +1,16 @@
+D:\microservice_proj\MyFirstMicroServiceProject\MyFirstMicroserviceProject\MyFirstMicroService.Banking.Data\bin\Debug\netcoreapp3.1\MyFirstMicroService.Banking.Data.deps.json
+D:\microservice_proj\MyFirstMicroServiceProject\MyFirstMicroserviceProject\MyFirstMicroService.Banking.Data\bin\Debug\netcoreapp3.1\MyFirstMicroService.Banking.Data.dll
+D:\microservice_proj\MyFirstMicroServiceProject\MyFirstMicroserviceProject\MyFirstMicroService.Banking.Data\obj\Debug\netcoreapp3.1\MyFirstMicroService.Banking.Data.AssemblyInfoInputs.cache
+D:\microservice_proj\MyFirstMicroServiceProject\MyFirstMicroserviceProject\MyFirstMicroService.Banking.Data\obj\Debug\netcoreapp3.1\MyFirstMicroService.Banking.Data.AssemblyInfo.cs
+D:\microservice_proj\MyFirstMicroServiceProject\MyFirstMicroserviceProject\MyFirstMicroService.Banking.Data\obj\Debug\netcoreapp3.1\MyFirstMicroService.Banking.Data.csprojAssemblyReference.cache
+D:\microservice_proj\MyFirstMicroServiceProject\MyFirstMicroserviceProject\MyFirstMicroService.Banking.Data\bin\Debug\netcoreapp3.1\MyFirstMicroService.Banking.Data.runtimeconfig.json
+D:\microservice_proj\MyFirstMicroServiceProject\MyFirstMicroserviceProject\MyFirstMicroService.Banking.Data\bin\Debug\netcoreapp3.1\MyFirstMicroService.Banking.Data.runtimeconfig.dev.json
+D:\microservice_proj\MyFirstMicroServiceProject\MyFirstMicroserviceProject\MyFirstMicroService.Banking.Data\obj\Debug\netcoreapp3.1\MyFirstMicroService.Banking.Data.genruntimeconfig.cache
+D:\microservice_proj\MyFirstMicroServiceProject\MyFirstMicroserviceProject\MyFirstMicroService.Banking.Data\bin\Debug\netcoreapp3.1\MyFirstMicroService.Banking.Data.pdb
+D:\microservice_proj\MyFirstMicroServiceProject\MyFirstMicroserviceProject\MyFirstMicroService.Banking.Data\bin\Debug\netcoreapp3.1\MyFirstMicroService.Banking.Domain.dll
+D:\microservice_proj\MyFirstMicroServiceProject\MyFirstMicroserviceProject\MyFirstMicroService.Banking.Data\bin\Debug\netcoreapp3.1\MyFirstMicroService.Banking.Domain.pdb
+D:\microservice_proj\MyFirstMicroServiceProject\MyFirstMicroserviceProject\MyFirstMicroService.Banking.Data\obj\Debug\netcoreapp3.1\MyFirstMicroService.Banking.Data.csproj.CopyComplete
+D:\microservice_proj\MyFirstMicroServiceProject\MyFirstMicroserviceProject\MyFirstMicroService.Banking.Data\obj\Debug\netcoreapp3.1\MyFirstMicroService.Banking.Data.dll
+D:\microservice_proj\MyFirstMicroServiceProject\MyFirstMicroserviceProject\MyFirstMicroService.Banking.Data\obj\Debug\netcoreapp3.1\MyFirstMicroService.Banking.Data.pdb
+D:\microservice_proj\MyFirstMicroServiceProject\MyFirstMicroserviceProject\MyFirstMicroService.Banking.Data\bin\Debug\netcoreapp3.1\MyFirstMicroservice.Domain.Core.dll
+D:\microservice_proj\MyFirstMicroServiceProject\MyFirstMicroserviceProject\MyFirstMicroService.Banking.Data\bin\Debug\netcoreapp3.1\MyFirstMicroservice.Domain.Core.pdb

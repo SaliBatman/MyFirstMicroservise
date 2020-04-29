@@ -1,0 +1,11 @@
+D:\microservice_proj\MyFirstMicroServiceProject\MyFirstMicroserviceProject\MyFirstMicroservice.Infra.Bus\bin\Debug\netcoreapp3.1\MyFirstMicroservice.Infra.Bus.deps.json
+D:\microservice_proj\MyFirstMicroServiceProject\MyFirstMicroserviceProject\MyFirstMicroservice.Infra.Bus\bin\Debug\netcoreapp3.1\MyFirstMicroservice.Infra.Bus.dll
+D:\microservice_proj\MyFirstMicroServiceProject\MyFirstMicroserviceProject\MyFirstMicroservice.Infra.Bus\obj\Debug\netcoreapp3.1\MyFirstMicroservice.Infra.Bus.csprojAssemblyReference.cache
+D:\microservice_proj\MyFirstMicroServiceProject\MyFirstMicroserviceProject\MyFirstMicroservice.Infra.Bus\obj\Debug\netcoreapp3.1\MyFirstMicroservice.Infra.Bus.AssemblyInfoInputs.cache
+D:\microservice_proj\MyFirstMicroServiceProject\MyFirstMicroserviceProject\MyFirstMicroservice.Infra.Bus\obj\Debug\netcoreapp3.1\MyFirstMicroservice.Infra.Bus.AssemblyInfo.cs
+D:\microservice_proj\MyFirstMicroServiceProject\MyFirstMicroserviceProject\MyFirstMicroservice.Infra.Bus\bin\Debug\netcoreapp3.1\MyFirstMicroservice.Domain.Core.dll
+D:\microservice_proj\MyFirstMicroServiceProject\MyFirstMicroserviceProject\MyFirstMicroservice.Infra.Bus\bin\Debug\netcoreapp3.1\MyFirstMicroservice.Domain.Core.pdb
+D:\microservice_proj\MyFirstMicroServiceProject\MyFirstMicroserviceProject\MyFirstMicroservice.Infra.Bus\obj\Debug\netcoreapp3.1\MyFirstMicroservice.Infra.Bus.csproj.CopyComplete
+D:\microservice_proj\MyFirstMicroServiceProject\MyFirstMicroserviceProject\MyFirstMicroservice.Infra.Bus\bin\Debug\netcoreapp3.1\MyFirstMicroservice.Infra.Bus.pdb
+D:\microservice_proj\MyFirstMicroServiceProject\MyFirstMicroserviceProject\MyFirstMicroservice.Infra.Bus\obj\Debug\netcoreapp3.1\MyFirstMicroservice.Infra.Bus.dll
+D:\microservice_proj\MyFirstMicroServiceProject\MyFirstMicroserviceProject\MyFirstMicroservice.Infra.Bus\obj\Debug\netcoreapp3.1\MyFirstMicroservice.Infra.Bus.pdb

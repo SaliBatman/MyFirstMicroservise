@@ -1,0 +1,8 @@
+D:\microservice_proj\MyFirstMicroServiceProject\MyFirstMicroserviceProject\MyFirstMicroservice.Domain.Core\obj\Debug\netcoreapp3.1\MyFirstMicroservice.Domain.Core.csprojAssemblyReference.cache
+D:\microservice_proj\MyFirstMicroServiceProject\MyFirstMicroserviceProject\MyFirstMicroservice.Domain.Core\obj\Debug\netcoreapp3.1\MyFirstMicroservice.Domain.Core.AssemblyInfoInputs.cache
+D:\microservice_proj\MyFirstMicroServiceProject\MyFirstMicroserviceProject\MyFirstMicroservice.Domain.Core\obj\Debug\netcoreapp3.1\MyFirstMicroservice.Domain.Core.AssemblyInfo.cs
+D:\microservice_proj\MyFirstMicroServiceProject\MyFirstMicroserviceProject\MyFirstMicroservice.Domain.Core\bin\Debug\netcoreapp3.1\MyFirstMicroservice.Domain.Core.deps.json
+D:\microservice_proj\MyFirstMicroServiceProject\MyFirstMicroserviceProject\MyFirstMicroservice.Domain.Core\bin\Debug\netcoreapp3.1\MyFirstMicroservice.Domain.Core.dll
+D:\microservice_proj\MyFirstMicroServiceProject\MyFirstMicroserviceProject\MyFirstMicroservice.Domain.Core\bin\Debug\netcoreapp3.1\MyFirstMicroservice.Domain.Core.pdb
+D:\microservice_proj\MyFirstMicroServiceProject\MyFirstMicroserviceProject\MyFirstMicroservice.Domain.Core\obj\Debug\netcoreapp3.1\MyFirstMicroservice.Domain.Core.dll
+D:\microservice_proj\MyFirstMicroServiceProject\MyFirstMicroserviceProject\MyFirstMicroservice.Domain.Core\obj\Debug\netcoreapp3.1\MyFirstMicroservice.Domain.Core.pdb

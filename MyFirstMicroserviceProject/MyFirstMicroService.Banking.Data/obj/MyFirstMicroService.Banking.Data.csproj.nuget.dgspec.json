@@ -1,0 +1,209 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\microservice_proj\\MyFirstMicroServiceProject\\MyFirstMicroserviceProject\\MyFirstMicroService.Banking.Data\\MyFirstMicroService.Banking.Data.csproj": {}
+  },
+  "projects": {
+    "D:\\microservice_proj\\MyFirstMicroServiceProject\\MyFirstMicroserviceProject\\MyFirstMicroService.Banking.Data\\MyFirstMicroService.Banking.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\microservice_proj\\MyFirstMicroServiceProject\\MyFirstMicroserviceProject\\MyFirstMicroService.Banking.Data\\MyFirstMicroService.Banking.Data.csproj",
+        "projectName": "MyFirstMicroService.Banking.Data",
+        "projectPath": "D:\\microservice_proj\\MyFirstMicroServiceProject\\MyFirstMicroserviceProject\\MyFirstMicroService.Banking.Data\\MyFirstMicroService.Banking.Data.csproj",
+        "packagesPath": "C:\\Users\\salar\\.nuget\\packages\\",
+        "outputPath": "D:\\microservice_proj\\MyFirstMicroServiceProject\\MyFirstMicroserviceProject\\MyFirstMicroService.Banking.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\salar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\microservice_proj\\MyFirstMicroServiceProject\\MyFirstMicroserviceProject\\MyFirstMicroService.Banking.Domain\\MyFirstMicroService.Banking.Domain.csproj": {
+                "projectPath": "D:\\microservice_proj\\MyFirstMicroServiceProject\\MyFirstMicroserviceProject\\MyFirstMicroService.Banking.Domain\\MyFirstMicroService.Banking.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\microservice_proj\\MyFirstMicroServiceProject\\MyFirstMicroserviceProject\\MyFirstMicroService.Banking.Domain\\MyFirstMicroService.Banking.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\microservice_proj\\MyFirstMicroServiceProject\\MyFirstMicroserviceProject\\MyFirstMicroService.Banking.Domain\\MyFirstMicroService.Banking.Domain.csproj",
+        "projectName": "MyFirstMicroService.Banking.Domain",
+        "projectPath": "D:\\microservice_proj\\MyFirstMicroServiceProject\\MyFirstMicroserviceProject\\MyFirstMicroService.Banking.Domain\\MyFirstMicroService.Banking.Domain.csproj",
+        "packagesPath": "C:\\Users\\salar\\.nuget\\packages\\",
+        "outputPath": "D:\\microservice_proj\\MyFirstMicroServiceProject\\MyFirstMicroserviceProject\\MyFirstMicroService.Banking.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\salar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\microservice_proj\\MyFirstMicroServiceProject\\MyFirstMicroserviceProject\\MyFirstMicroservice.Domain.Core\\MyFirstMicroservice.Domain.Core.csproj": {
+                "projectPath": "D:\\microservice_proj\\MyFirstMicroServiceProject\\MyFirstMicroserviceProject\\MyFirstMicroservice.Domain.Core\\MyFirstMicroservice.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\microservice_proj\\MyFirstMicroServiceProject\\MyFirstMicroserviceProject\\MyFirstMicroservice.Domain.Core\\MyFirstMicroservice.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\microservice_proj\\MyFirstMicroServiceProject\\MyFirstMicroserviceProject\\MyFirstMicroservice.Domain.Core\\MyFirstMicroservice.Domain.Core.csproj",
+        "projectName": "MyFirstMicroservice.Domain.Core",
+        "projectPath": "D:\\microservice_proj\\MyFirstMicroServiceProject\\MyFirstMicroserviceProject\\MyFirstMicroservice.Domain.Core\\MyFirstMicroservice.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\salar\\.nuget\\packages\\",
+        "outputPath": "D:\\microservice_proj\\MyFirstMicroServiceProject\\MyFirstMicroserviceProject\\MyFirstMicroservice.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\salar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
